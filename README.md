@@ -1,12 +1,32 @@
-**About Me**
+About Me
 
-I am **Sumair Ahmed (Sumair Dero)**, a dedicated Computer Science student with a strong passion for **Artificial Intelligence, Software Engineering, Data Science, and Emerging Technologies**. Currently pursuing my bachelor's degree, I am focused on building a solid foundation in programming, problem-solving, and intelligent systems.
+I am Sumair Dero, a Bachelor of Science in Artificial Intelligence student at the University of Sindh with a strong passion for Artificial Intelligence, Machine Learning, Deep Learning, Robotics, and Software Development. I am dedicated to understanding how intelligent systems learn, reason, and solve real-world problems.
 
-My interests span across **Machine Learning, Deep Learning, Data Structures & Algorithms, Python Development, and AI-driven solutions**. I enjoy transforming ideas into practical projects that solve real-world challenges and create meaningful impact. Through continuous learning, hands-on experimentation, and technical exploration, I strive to stay at the forefront of technological innovation.
+My journey in technology began with programming fundamentals and has evolved into exploring advanced AI concepts, data-driven solutions, and intelligent automation. I have developed practical experience in Python programming, data structures, algorithms, problem-solving, and AI-related projects, continuously strengthening both my technical and analytical skills.
 
-Beyond academics, I actively work on developing industry-relevant skills, contributing to technical communities, and expanding my knowledge through projects, research, and professional networking. My goal is to become a highly skilled AI Engineer and technology professional capable of designing intelligent, ethical, and scalable solutions that shape the future.
+I am particularly interested in building impactful AI solutions that can improve decision-making, enhance human productivity, and contribute to technological innovation. Alongside my academic studies, I actively engage in self-learning through industry-recognized courses, hands-on projects, technical research, and professional networking.
 
-I believe that curiosity, consistency, and continuous improvement are the keys to success in the ever-evolving world of technology.
+My long-term goal is to become a highly skilled AI and Robotics Engineer, contributing to the development of intelligent, ethical, and transformative technologies that create meaningful value for society.
+
+Core Interests
+Artificial Intelligence (AI)
+Machine Learning (ML)
+Deep Learning
+Robotics & Intelligent Systems
+Data Science & Analytics
+Python Programming
+Software Engineering
+Data Structures & Algorithms
+Computer Vision
+Natural Language Processing (NLP)
+Current Focus
+Building real-world AI and Machine Learning projects
+Strengthening Python and software development skills
+Exploring Deep Learning and Robotics applications
+Developing a strong professional presence through technical content and networking
+Preparing for future opportunities in AI research and industry
+
+"Turning curiosity into intelligence, and intelligence into real-world impact through Artificial Intelligence and innovation." 🚀
 
 
 
