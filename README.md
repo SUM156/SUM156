@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am Sumair Ahmed, a passionate Computer Science student with a strong interest in Software Engineering, Artificial Intelligence, and Data Structures & Algorithms. I enjoy solving real-world problems through technology and continuously learning new tools and programming concepts. I am eager to gain practical industry experience, contribute to innovative projects, and further develop my technical and professional skills.
+**About Me**
+
+I am **Sumair Ahmed (Sumair Dero)**, a dedicated Computer Science student with a strong passion for **Artificial Intelligence, Software Engineering, Data Science, and Emerging Technologies**. Currently pursuing my bachelor's degree, I am focused on building a solid foundation in programming, problem-solving, and intelligent systems.
+
+My interests span across **Machine Learning, Deep Learning, Data Structures & Algorithms, Python Development, and AI-driven solutions**. I enjoy transforming ideas into practical projects that solve real-world challenges and create meaningful impact. Through continuous learning, hands-on experimentation, and technical exploration, I strive to stay at the forefront of technological innovation.
+
+Beyond academics, I actively work on developing industry-relevant skills, contributing to technical communities, and expanding my knowledge through projects, research, and professional networking. My goal is to become a highly skilled AI Engineer and technology professional capable of designing intelligent, ethical, and scalable solutions that shape the future.
+
+I believe that curiosity, consistency, and continuous improvement are the keys to success in the ever-evolving world of technology.
+
 
 
 ## 🌐 Socials:
